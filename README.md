@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-包含很多语言的HelloWorld示例程序。
+大家好，这是一个测试的项目，包含一些语言的helloworl演示代码。
